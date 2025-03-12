@@ -34,6 +34,7 @@ body {
     display: grid;
     place-items: center;
     min-height: 100vh;
+    height: 100%;
     background-image: 
         url('../assets/images/pattern-squiggly-line-top.svg'), 
         url('../assets/images/pattern-squiggly-line-bottom-desktop.svg'),
