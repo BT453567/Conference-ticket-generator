@@ -453,7 +453,7 @@ input[type="file"] {
             url('../assets/images/pattern-squiggly-line-bottom-mobile-tablet.svg'),
             url('../assets/images/pattern-lines.svg'),
             url('../assets/images/pattern-circle.svg'),
-            url('../assets/images/background-desktop.png');
+            url('../assets/images/background-tablet.png');
         background-position: top right, bottom left, center, center, center;
         background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
         background-size: auto, auto, cover, auto, cover;
@@ -487,7 +487,7 @@ input[type="file"] {
             url('../assets/images/pattern-squiggly-line-bottom-mobile-tablet.svg'),
             url('../assets/images/pattern-lines.svg'),
             url('../assets/images/pattern-circle.svg'),
-            url('../assets/images/background-desktop.png');
+            url('../assets/images/background-mobile.png');
         background-position: top right, bottom left, center, center, center;
         background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
         background-size: auto, auto, cover, auto, cover;
