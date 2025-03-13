@@ -204,7 +204,7 @@ label {
     padding: 1.5rem;
     align-items: center;
     gap: 1rem;
-    border: 1px dotted var(--neutral-300);
+    border: 1px dashed var(--neutral-300);
     border-radius: 10px;
     background-color: var(--input-background);
     cursor: pointer;
